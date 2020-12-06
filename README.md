@@ -1,4 +1,5 @@
 # ONLINE LIBRARY MANAGEMENT
+![](https://img.shields.io/badge/Project-Cognizance2020-blue)
 
 [<img src="https://i.pinimg.com/564x/12/20/f2/1220f21a4b56b025db41b44195d73287.jpg" width="300"/>](https://i.pinimg.com/564x/12/20/f2/1220f21a4b56b025db41b44195d73287.jpg)
 
