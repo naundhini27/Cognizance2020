@@ -1,4 +1,7 @@
 # ONLINE LIBRARY MANAGEMENT
+
+[<img src="https://i.pinimg.com/564x/12/20/f2/1220f21a4b56b025db41b44195d73287.jpg" width="300"/>](https://i.pinimg.com/564x/12/20/f2/1220f21a4b56b025db41b44195d73287.jpg)
+
 `Library functions allows the user to perform basic library administrator functions and displays student details`
 
 ## *DEVELOPMENT*
@@ -86,3 +89,5 @@ void book_deposit()
              ```
      1. Back to main menu
            * This option takes us back to the main menu
+
+![book](https://media.istockphoto.com/photos/education-concept-with-book-in-library-picture-id944631208?k=6&m=944631208&s=612x612&w=0&h=5Hx0ksAT5Majaz40Iov6oLO6GaDn2cxySnNTDTH3Qk8=)
