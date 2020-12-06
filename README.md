@@ -11,7 +11,6 @@
 ---
 
 ## *FUNCTIONS OF THIS PROGRAM*
-- [x] Finish my changes
 - [x] Know the number of students using the library service
 - [x] Keep a track of how many books were issued to each student
 - [x] Calculate the fine for late book deposit
@@ -102,6 +101,11 @@ void book_deposit()
      1. Back to main menu
            * This option takes us back to the main menu
 
+## *CREDITS*
+* Thanks to [Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo&feature=youtu.be "Youtube!")
+* Thanks to [Cognizance2020](https://cognizance2020.github.io/post/markdown/ "Cognizance2020")
+
 ![book](https://media.istockphoto.com/photos/education-concept-with-book-in-library-picture-id944631208?k=6&m=944631208&s=612x612&w=0&h=5Hx0ksAT5Majaz40Iov6oLO6GaDn2cxySnNTDTH3Qk8=)
 
-##CREDITS
+
+
