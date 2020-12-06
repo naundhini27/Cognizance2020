@@ -8,6 +8,17 @@
 ## *DEVELOPMENT*
 `This was fully developed in Turbo C++ compiler`
 
+---
+
+## *FUNCTIONS OF THIS PROGRAM*
+- [x] Finish my changes
+- [x] Know the number of students using the library service
+- [x] Keep a track of how many books were issued to each student
+- [x] Calculate the fine for late book deposit
+- [x] Modify the book and student database
+- [ ] Lets you modify the fine amount
+
+
 ## *CONTENTS*
 >CLASSES
 
@@ -92,3 +103,5 @@ void book_deposit()
            * This option takes us back to the main menu
 
 ![book](https://media.istockphoto.com/photos/education-concept-with-book-in-library-picture-id944631208?k=6&m=944631208&s=612x612&w=0&h=5Hx0ksAT5Majaz40Iov6oLO6GaDn2cxySnNTDTH3Qk8=)
+
+##CREDITS
