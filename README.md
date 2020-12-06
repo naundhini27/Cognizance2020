@@ -1,5 +1,9 @@
 # ONLINE LIBRARY MANAGEMENT
 `Library functions allows the user to perform basic library administrator functions and displays student details`
+
+## *DEVELOPMENT*
+`This was fully developed in Turbo C++ compiler`
+
 ## *CONTENTS*
 >CLASSES
 
@@ -12,7 +16,8 @@ __This program contains two classes :__
 
 
 >FUNCTIONS
-* There are about 14 functions outside the classes
+
+ There are about 14 functions outside the classes
 
 ## *WHAT IT DOES*
 * This program first shows the user the **MAIN MENU** where they can choose between the three options or can Exit:
