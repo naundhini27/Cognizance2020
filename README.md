@@ -5,6 +5,8 @@
 
 `Library functions allows the user to perform basic library administrator functions and displays student details`
 
+---
+
 ## *DEVELOPMENT*
 `This was fully developed in Turbo C++ compiler`
 
@@ -17,6 +19,7 @@
 - [x] Modify the book and student database
 - [ ] Lets you modify the fine amount
 
+---
 
 ## *CONTENTS*
 >CLASSES
@@ -33,11 +36,13 @@ __This program contains two classes :__
 
  There are about 14 functions outside the classes
 
+---
+
 ## *WHAT IT DOES*
 * This program first shows the user the **MAIN MENU** where they can choose between the three options or can Exit:
-    1. Book issue
-    1. Book deposit
-    1. Administrator menu
+>    1. Book issue
+>    1. Book deposit
+>    1. Administrator menu
 * The _book issue_ option enables the user to enter the _students admission number_ and the _book number_ and issue the book to that student. It uses the function :
 ```C++
 void book_issue()
@@ -100,6 +105,8 @@ void book_deposit()
              ```
      1. Back to main menu
            * This option takes us back to the main menu
+
+---
 
 ## *CREDITS*
 * Thanks to [Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo&feature=youtu.be "Youtube!")
