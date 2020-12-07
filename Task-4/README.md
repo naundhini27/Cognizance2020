@@ -34,7 +34,7 @@ __This program contains two classes :__
 
 >FUNCTIONS
 
- There are about 14 functions outside the classes
+ There are about 14 functions outside the class
 
 ---
 
