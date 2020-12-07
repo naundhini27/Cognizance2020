@@ -166,7 +166,7 @@ void write_student()
 }
 
 //*************************************************************************
-//	                    FUNCTION TO READ SPECIFIC  RECORD FROM FILE
+//	       FUNCTION TO READ SPECIFIC  RECORD FROM FILE
 //*************************************************************************
 
 void display_spb(char n[])
@@ -350,7 +350,7 @@ void display_alls()
 	getch();
 }
 //*************************************************************************
-//                                               FUNCTION TO DISPLAY BOOKS LIST
+//                     FUNCTION TO DISPLAY BOOKS LIST
 //*************************************************************************
 void display_allb()
 {
