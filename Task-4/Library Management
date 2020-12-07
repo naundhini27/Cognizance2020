@@ -524,7 +524,7 @@ break;
 		case 8:{
 			      char num[6];
 				 clrscr();
-			      cout<<"\n\n\tPlease Enter The book No.";
+			      cout<<"\n\n\tPlease Enter The book No. :";
 			      cin>>num;
 			      display_spb(num);
 			      break;
